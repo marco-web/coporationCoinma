@@ -1,0 +1,38 @@
+.imgMedidas {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  background-size: 100% 100%;
+  opacity: 0.8;
+}
+
+.imgMedidasFondos {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: 500px;
+  background-size: 100% 100%;
+  opacity: 0.8;
+}
+.textoHistoria {
+  text-align: justify;
+  font-family: "Segoe UI", Times, serif;
+  font-size: 13px;
+  color: #757575;
+  font-weight: bolder;
+  line-height: 170%;
+}
+
+.titulos {
+  font-family: "Noto";
+  font-size: 75px;
+  color: #363232;
+  /*font-weight: bold;*/
+}
+
+.titulos2 {
+  font-family: "Noto";
+  font-size: 40px;
+  color: #363232;
+  font-weight: bold;
+}

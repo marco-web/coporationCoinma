@@ -1,0 +1,126 @@
+body {
+  background-color: #ffffff;
+  /*background-image: url("imagenes/home2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  */
+}
+
+/*
+div {
+  background: rgba(76, 175, 80, 0.3) 
+}
+*/
+.imagenMedidas3 {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  background-size: 100% 100%;
+  opacity: 0.8;
+}
+
+.imagenMedidas {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  background-size: 100% 100%;
+  opacity: 0.5;
+}
+
+.imagenMedidas2 {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: 180px;
+  background-size: 100% 100%;
+  opacity: 0.5;
+}
+
+.imagenMedidas:hover{
+  opacity: 1;
+}
+.imagenMedidas2:hover{
+  opacity: 1;
+}
+
+h1 {
+  font-family: "Verdana", Times, serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Optima", Times, serif;
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.textoPiePagina {
+  font-family: "Lucida Sans", Times, serif;
+  font-size: 11px;
+  color: #ffffff;
+  font-weight: bold;
+  padding-left: 15px;
+}
+
+.textoImagen {
+  font-family: "Lucida Sans", Times, serif;
+  font-size: 15px;
+  color:#4628ee;;
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+.tituloPiePagina {
+  font-family: "Lucida Sans", Times, serif;
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.cabeceraTexto {
+  text-align: center;
+  font-family: "Segoe UI", Times, serif;
+  font-size: 30px;
+  color: #4628ee;
+  font-weight: bolder;
+}
+
+.siglas {
+  font-family: "Helvetica";
+  font-size: 55px;
+  color: #363232;
+  /*font-weight: bold;*/
+}
+/*
+.cabeceraTexto:hover {
+  background: rgba(251, 255, 0, 0.555);
+  background-color: #424242;
+}*/
+
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto; /*
+  border-style: inset;*/
+  border-width: 5px;
+  border-color: #ffeb3b;
+}
+
+.col-sm-4 {
+  border-width: 3px;
+  border-style: solid;
+  border-left-color: #4628ee;
+  border-top-color: #4628ee;
+  border-bottom-color: #4628ee;
+  border-right-color: rgb(255, 255, 255);
+}
+
+.iconos{
+  padding-left: 7px;
+}
